@@ -4,3 +4,7 @@ Step 1: Add the two folders to the icon folder of your Ody's addon folder (...\D
 Step 2: Open FuncCustomIcons.TXT (from the Github). Copy the text in the file.
 
 Step 3: Open FuncCustoimIcons.LUA in your Ody's folder (...\Documents\Elder Scrolls Online\live\AddOns\OdySupportIcons\FuncCustoimIcons.LUA). Paste the lines from the text file at the bottom of the existing list of files (should be around line 80. Make sure you paste it BEFORE the closing brace)
+
+Step 4: In game go to your guild, party or friends list and right click a name to add a custom icon.
+
+Note: Hodor icons are automatically added to Odys.
