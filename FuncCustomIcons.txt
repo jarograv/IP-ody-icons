@@ -28,3 +28,4 @@
     "odysupporticons/icons/ip_custom_icons/Todd.dds",
     "odysupporticons/icons/ip_custom_icons/DKP.dds",
     "odysupporticons/icons/ip_custom_icons/Nilandia.dds",
+    "odysupporticons/icons/ip_custom_icons/Seageek.dds",
